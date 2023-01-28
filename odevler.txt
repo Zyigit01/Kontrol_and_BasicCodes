@@ -1,0 +1,24 @@
+ //1 ile 100
+//arasındaki Sayıların toplamını bulan fonksiyonu yazınız.(Geri
+//dönüş tipi int olsun)
+
+//2 Verilen iki sayı
+arasındaki  tek sayıları bulan bir fonksiyon
+yazınız.(Geri dönüş tipi List<int> olsun) iki sayı kontrolünü mutlaka
+yapalım.
+
+//3 verilen bir int türündeki
+bir listenin içindeki tek sayıların toplamını bulup döndüren bir fonksiyon
+yazınız.
+
+//4 Verilen bir int türündeki
+bir listenin içindeki çift sayıların toplamını bulup döndüren bir fonksiyon
+yazınız.
+
+//5 Verilen sayının
+faktöriyelini bulan fonksiyonu yazınız.
+
+X 6 Verilen int türündeki bir
+listenin elemanların tek sayıların toplamını ve çift sayıların toplamını döndüren
+bir fonksiyon yazınız. Geri dönüş tipi Map<String,int> olmalı “tek”
+anahtarında teksayıların toplamı “cift” anahtarında ise çift sayıların toplamı olacak.
